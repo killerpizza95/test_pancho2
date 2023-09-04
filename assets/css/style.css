@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.col-4,
+.col-3,
+.col-2,
+.col-1,
+.col-5 {
+  border: solid black;
+}
+
+.precio {
+  color: #28a745;
+}
+
+i { font-size: 12px;
+padding: 4px;}
+
+
